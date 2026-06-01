@@ -1,0 +1,69 @@
+# Phishing Analysis Report
+
+## Task Information
+
+**Task:** Analyze a Phishing Email Sample
+**Objective:** Identify phishing characteristics in a suspicious email sample.
+
+---
+
+## Introduction
+
+Phishing is a cyberattack technique in which attackers attempt to trick users into revealing sensitive information such as passwords, banking details, or personal data. In this task, I analyzed a sample phishing email to identify indicators that suggest the email is fraudulent.
+
+---
+
+## Email Overview
+
+The analyzed email claimed that the recipient was eligible for a tax refund of **209.27 GBP**. The email appeared to come from **HM Revenue and Customs (HMRC)** and encouraged the recipient to click a link to claim the refund.
+
+---
+
+## Analysis of Phishing Indicators
+
+### 1. Suspicious Sender Address
+
+The sender's email address was **[chugo23_5@hotmail.co.uk](mailto:chugo23_5@hotmail.co.uk)**. This is a personal email account and does not belong to the official HMRC domain. Legitimate government organizations usually communicate through official email domains.
+
+### 2. Organization Impersonation
+
+The email used the HMRC name and logo to appear trustworthy. This is a common phishing tactic used to convince recipients that the message is legitimate.
+
+### 3. Suspicious Link
+
+The email contained a "Refund" hyperlink that encouraged the user to submit a refund request. Such links are often used to redirect victims to fake websites designed to steal sensitive information.
+
+### 4. Financial Incentive
+
+The promise of receiving a tax refund was used to attract the recipient's attention. Attackers frequently use financial rewards or benefits to increase the chances of user interaction.
+
+### 5. Social Engineering Technique
+
+The email attempted to build trust and encourage immediate action. This psychological manipulation is a common social engineering method used in phishing attacks.
+
+### 6. Potential Risk
+
+If the recipient clicks the link and enters personal information, attackers may gain access to sensitive data such as banking details, login credentials, or identity information.
+
+---
+
+## Phishing Traits Identified
+
+* Suspicious sender email address
+* Impersonation of a trusted organization
+* Presence of a suspicious hyperlink
+* Financial lure (tax refund offer)
+* Social engineering tactics
+* Attempt to obtain sensitive information
+
+---
+
+## Conclusion
+
+Based on the analysis, the email contains multiple indicators of a phishing attack. The suspicious sender address, fake tax refund offer, impersonation of HMRC, and use of a hyperlink to collect information are strong warning signs. Users should always verify the sender's identity and avoid clicking links in unexpected emails. This task helped improve my understanding of phishing attacks, email spoofing, and cyber threat detection.
+
+---
+
+## Outcome
+
+Successfully identified phishing characteristics in a suspicious email sample and gained practical knowledge of phishing tactics, email spoofing, social engineering, and email threat analysis.
